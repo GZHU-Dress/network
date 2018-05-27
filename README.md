@@ -22,9 +22,11 @@ Here's a simple [systemd service](officialClient/ruijie@.service).
 
 ## Third-party Open Source Client Minieap
 
+> Pay more attention to the branch before you download or clone.
+
 - [Origin Repository](https://github.com/updateing/minieap)
 - [Local Version](https://github.com/GZHU-Dress/minieap)
-- [OpenWRT Version](https://github.com/GZHU-Dress/openwrt-minieap)
+- [OpenWRT Version](https://github.com/GZHU-Dress/openwrt-minieap/tree/gzhu)
 
 ## Relay Software Agentx1
 
