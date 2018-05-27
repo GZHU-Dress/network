@@ -1,0 +1,13 @@
+[Unit]
+Description=Ruijie Service
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=<The Path You Have Downloaded The File>
+ExecStart=/usr/bin/sh rjsupplicant.sh -d 1 -u %i -p <Enter Your Password Here>
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
