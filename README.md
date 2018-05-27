@@ -31,3 +31,13 @@ Here's a simple [systemd service](officialClient/ruijie@.service).
 - [Origin Repository](https://bitbucket.org/CrazyBoyFeng/agentx1)
 - [OpenWRT Version](https://github.com/GZHU-Dress/openwrt-agentx1)
 - [LEDE Version](https://github.com/GZHU-Dress/agentx1-lede)
+
+## Archlinux Package Cache
+
+**Attention**: Only can be used at school and manually packaged (may have testing packages or out of date).
+
+Download the packages and `sudo pacman -U xxx.tar.gz` to install it. 
+
+Verify the package by [public keys](https://github.com/GZHU-Dress/gzhu-pubkeys/blob/master/gpg_keys) or install `archlinuxcn-keyring` package from [archlinuxcn repo](https://github.com/archlinuxcn/repo/blob/master/README.md).
+
+> [Cache Address](http://202.192.29.91/)
