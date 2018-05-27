@@ -10,7 +10,7 @@ Some potentially useful networks tools.
 
 Here's a simple [systemd service](officialClient/ruijie@.service).
 
-> [GZHU Network Center Page](http://202.192.18.32:8081)
+> [GZHU Network Center Page](http://202.192.18.17:8023)
 
 ## Official Client Multi-adapter Support
 
