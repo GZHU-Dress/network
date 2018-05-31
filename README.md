@@ -8,7 +8,7 @@ Some potentially useful networks tools.
 
 ### Systemd Service Usage
 
-Here's a simple [systemd service](officialClient/ruijie@.service).
+Here's a simple [systemd service](officialClient/LinuxVersion/ruijie%40.service).
 
 > [GZHU Network Center Page](http://202.192.18.17:8023)
 
